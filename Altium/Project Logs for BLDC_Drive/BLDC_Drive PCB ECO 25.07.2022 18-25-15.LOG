@@ -1,0 +1,8 @@
+Change Physical Footprint: Designator=J1 Old Footprint=Cable25 New Footprint=Cable25
+Change Physical Footprint: Designator=J2 Old Footprint=Cable25 New Footprint=Cable25
+Change Physical Footprint: Designator=J3 Old Footprint=PLS 5x1 New Footprint=PLS 5x1
+Change Physical Footprint: Designator=J4 Old Footprint=Cable25 New Footprint=Cable25
+Change Physical Footprint: Designator=J5 Old Footprint=Cable25 New Footprint=Cable25
+Change Physical Footprint: Designator=J6 Old Footprint=Cable25 New Footprint=Cable25
+Change Physical Footprint: Designator=J7 Old Footprint=Conn6x1 New Footprint=Conn6x1
+Change Physical Footprint: Designator=J8 Old Footprint=HEADER 2 XT30PW Male New Footprint=HEADER 2 XT30PW Male

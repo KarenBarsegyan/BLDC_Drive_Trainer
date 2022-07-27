@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [BLDC_Drive.PrjPcb]
+   Generated File[BLDC_Drive-Plated.TXT]
+   Generated File[BLDC_Drive.LDP]
+   Generated File[BLDC_Drive.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 22:41:12 On 26.07.2022

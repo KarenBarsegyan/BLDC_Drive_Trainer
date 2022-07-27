@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : D:\Circuitry\BLDC_Drive_Trainer\Altium\BLDC_Drive.PcbDoc
-Date     : 25.07.2022
-Time     : 23:07:48
+Date     : 26.07.2022
+Time     : 22:40:07
 
 Processing Rule : Clearance Constraint (Gap=0.6mm) (InNetClass('HV')),(All)
 Rule Violations :0
@@ -72,4 +72,4 @@ Rule Violations :0
 
 Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:09
+Time Elapsed        : 00:00:10

@@ -1,0 +1,36 @@
+Change Component DesignItemId : Designator=C1 Old DesignItemId=Cap 0.1uF New DesignItemId=Cap 0.1uF (0603)
+Change Component DesignItemId : Designator=C2 Old DesignItemId=Cap 10uF New DesignItemId=Cap 10uF (0603)
+Change Component DesignItemId : Designator=U1 Old DesignItemId=Encoder(AS5048A) New DesignItemId=Encoder
+Change Component DesignItemId : Designator=P1 Old DesignItemId=Header 6 New DesignItemId=Conn 6 (PLS)
+Change Component Footprint: Designator=C1 Old Footprint=0805 New Footprint=0603 Capicator
+Change Component Footprint: Designator=C2 Old Footprint=0805 New Footprint=0603 Capicator
+Change Component Footprint: Designator=P1 Old Footprint=HDR1X6 New Footprint=PLS 6x1
+Change Component Comment : Designator=P1 Old Comment=Header 6 New Comment=Conn 6 (PLS)
+Change Component Description : Designator=C1 Old Description=0.1uF X7R 50V 10% 0805 New Description=0.1uF X7R 16V 10% 0603
+Change Component Description : Designator=C2 Old Description=10uF X5R 10% 16V 0805 New Description=10uF X5R 25V 20% 0603
+Change Component Description : Designator=U1 Old Description=Magnetic Rotary Encoder (AS5048A) New Description=Magnetic Rotary Encoder
+Change Component Library : Designator=C1 Old Library=Karen's_Components.IntLib New Library=Karen_Components.IntLib
+Change Component Library : Designator=C2 Old Library=Karen's_Components.IntLib New Library=Karen_Components.IntLib
+Change Component Library : Designator=U1 Old Library=Karen's_Components.IntLib New Library=Karen_Components.IntLib
+Change Component Library : Designator=P1 Old Library=Miscellaneous Connectors.IntLib New Library=Karen_Components.IntLib
+Change component parameters: Designator = "C1" ("C1"); Footprint = "0805"; UniqueID = "\JXMWOQGP" ("\JXMWOQGP")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/grm188r71c104ka01d"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata Manufacturing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "GRM188R71C104KA01D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C2" ("C2"); Footprint = "0805"; UniqueID = "\XITUKPKC" ("\XITUKPKC")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/grm188r61e106m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata Manufacturing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "GRM188R61E106M"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "P1" ("P1"); Footprint = "HDR1X6"; UniqueID = "\GIMDXSMO" ("\GIMDXSMO")
+Change component parameters: Designator = "U1" ("U1"); Footprint = "TSSOP-14"; UniqueID = "\EFPXGRNX" ("\EFPXGRNX")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.com/ds/2/588/AS5048_DS000298_3-00-522551.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "ams"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "AS5048A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "IC"; VariantName = "[No Variations]"

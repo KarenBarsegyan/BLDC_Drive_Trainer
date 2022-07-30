@@ -1,8 +1,0 @@
-Removed Member From Class: ClassName=Power Member=U8
-Change Component Designator: OldDesignator=U8 NewDesignator=U10
-Change Net Name : Old Net Name=Net1_1 New Net Name=NetC36_1
-Change Net Name : Old Net Name=Net1_3 New Net Name=NetR58_1
-Change Net Name : Old Net Name=Net1_4 New Net Name=NetR61_2
-Change Net Name : Old Net Name=Net1_6 New Net Name=NetC45_2
-Change Net Name : Old Net Name=Net1_8 New Net Name=NetC36_2
-Added Member To Class: ClassName=Power Member=Component U10 (U8) DC/DC

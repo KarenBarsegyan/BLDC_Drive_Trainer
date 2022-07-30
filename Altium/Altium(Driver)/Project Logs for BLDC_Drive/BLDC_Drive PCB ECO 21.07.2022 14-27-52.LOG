@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=+3.3V Pin=C1-1
+Removed Pin From Net: NetName=GND Pin=C1-2
+Removed Pin From Net: NetName=GND Pin=C2-1
+Removed Pin From Net: NetName=VBUS Pin=U1-3
+Removed Pin From Net: NetName=VBUS Pin=U1-4
+Removed Pin From Net: NetName=GND Pin=U1-5
+Removed Pin From Net: NetName=+3.3V Pin=U1-8
+Removed Member From Class: ClassName=BLDC_Drive Member=C1
+Removed Member From Class: ClassName=BLDC_Drive Member=C2
+Removed Member From Class: ClassName=BLDC_Drive Member=U1
+Added Component: Designator=TP?(TestPoint)
+Added Pin To Net: NetName=VBUS Pin=J1-1
+Added Member To Class: ClassName=BLDC_Drive Member=Component C9 0.1uF
+Added Member To Class: ClassName=BLDC_Drive Member=Component D1 120V, 1A
+Added Member To Class: ClassName=BLDC_Drive Member=Component TP? TestPoint

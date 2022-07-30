@@ -1,8 +1,0 @@
-Removed Pin From Net: NetName=HO1 Pin=D10-2
-Removed Pin From Net: NetName=HO1 Pin=R25-1
-Removed Pin From Net: NetName=HO1 Pin=U2-27
-Change Net Name : Old Net Name=HO1 New Net Name=VS1
-Added Pin To Net: NetName=HO1 Pin=D10-2
-Added Pin To Net: NetName=HO1 Pin=R25-1
-Added Pin To Net: NetName=HO1 Pin=U2-27
-Added Net: Name=HO1

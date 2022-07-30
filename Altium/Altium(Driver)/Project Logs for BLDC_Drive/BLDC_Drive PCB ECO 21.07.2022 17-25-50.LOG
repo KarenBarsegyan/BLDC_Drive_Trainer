@@ -1,0 +1,19 @@
+Removed Member From Class: ClassName=BLDC_Drive Member=TP?
+Added Component: Designator=TP1_Half-Bridge Phase1(TestPoint)
+Added Component: Designator=TP1_Half-Bridge Phase2(TestPoint)
+Added Component: Designator=TP1_Half-Bridge Phase3(TestPoint)
+Added Component: Designator=TP2_Half-Bridge Phase1(TestPoint)
+Added Component: Designator=TP2_Half-Bridge Phase2(TestPoint)
+Added Component: Designator=TP2_Half-Bridge Phase3(TestPoint)
+Added Pin To Net: NetName=NetQ4_3 Pin=TP1_Half-Bridge Phase1-1
+Added Pin To Net: NetName=NetQ6_3 Pin=TP1_Half-Bridge Phase2-1
+Added Pin To Net: NetName=NetQ8_3 Pin=TP1_Half-Bridge Phase3-1
+Added Pin To Net: NetName=CurrentSens1 Pin=TP2_Half-Bridge Phase1-1
+Added Pin To Net: NetName=CurrentSens2 Pin=TP2_Half-Bridge Phase2-1
+Added Pin To Net: NetName=CurrentSens3 Pin=TP2_Half-Bridge Phase3-1
+Added Member To Class: ClassName=Half-Bridge Phase1 Member=Component TP1_Half-Bridge Phase1 (TP1) TestPoint
+Added Member To Class: ClassName=Half-Bridge Phase2 Member=Component TP1_Half-Bridge Phase2 (TP1) TestPoint
+Added Member To Class: ClassName=Half-Bridge Phase3 Member=Component TP1_Half-Bridge Phase3 (TP1) TestPoint
+Added Member To Class: ClassName=Half-Bridge Phase1 Member=Component TP2_Half-Bridge Phase1 (TP2) TestPoint
+Added Member To Class: ClassName=Half-Bridge Phase2 Member=Component TP2_Half-Bridge Phase2 (TP2) TestPoint
+Added Member To Class: ClassName=Half-Bridge Phase3 Member=Component TP2_Half-Bridge Phase3 (TP2) TestPoint

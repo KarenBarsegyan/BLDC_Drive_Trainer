@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=TP1_Half-Bridge Phase1 NewDesignator=TP1
+Change Component Designator: OldDesignator=TP1_Half-Bridge Phase2 NewDesignator=TP3
+Change Component Designator: OldDesignator=TP1_Half-Bridge Phase3 NewDesignator=TP5
+Change Component Designator: OldDesignator=TP2_Half-Bridge Phase1 NewDesignator=TP2
+Change Component Designator: OldDesignator=TP2_Half-Bridge Phase2 NewDesignator=TP4
+Change Component Designator: OldDesignator=TP2_Half-Bridge Phase3 NewDesignator=TP6
